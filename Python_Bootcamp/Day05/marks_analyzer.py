@@ -26,3 +26,4 @@ print(f"Percentage :{percentage:.2f}%")
 
 print(f"Heighest marks :{max(marks)}")
 print(f"Lowest marks :{min(marks)}")
+print(f"No of subject's :{len(marks)}")
